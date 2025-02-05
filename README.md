@@ -1,10 +1,16 @@
-Trabalho de introdução a Programação
+# Projeto Hotel - Impressão de Andares (PROZ - Talento Cloud)
 
-Desenvolvimento da PROZ - Talento Cloud
+Este projeto imprime os números dos andares de um hotel de 20 andares, excluindo o 13º andar devido à superstição do proprietário.  O projeto demonstra o uso de diferentes tipos de laços de repetição em Python.
 
-Precisamos imprimir um número para cada andar de um hotel de 20 andares. Porém, o dono do hotel é supersticioso e optou por não ter um 13ro andar.
+## Estrutura do Projeto
 
-Escreva um código que imprima todos os números exceto o número 13.
-Escreva mais dois códigos que resolvam o mesmo problema, mas dessa vez usando os outros dois tipos de laços de repetição aprendidos.
+O projeto contém um único arquivo Python:
 
-Como desafio, imprima eles em ordem decrescente (20, 19, 18...)
+*   `hotel_andares.py`: Contém o código para imprimir os andares do hotel usando laços `for`, `while` e uma simulação de `do-while`.
+
+## Execução
+
+Para executar o código, certifique-se de ter o Python instalado (versão 3.x recomendada).  Abra um terminal ou prompt de comando, navegue até o diretório onde o arquivo `hotel_andares.py` está localizado e execute o seguinte comando:
+
+```bash
+python hotel_andares.py
