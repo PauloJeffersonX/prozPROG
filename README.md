@@ -6,7 +6,7 @@ Este projeto imprime os números dos andares de um hotel de 20 andares, excluind
 
 O projeto contém um único arquivo Python:
 
-*   `hotel_andares.py`: Contém o código para imprimir os andares do hotel usando laços `for`, `while` e uma simulação de `do-while`.
+*   `hotel_andares.py`: Contém o código para imprimir os andares do hotel usando laços `for`.
 
 ## Execução
 
